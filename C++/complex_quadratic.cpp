@@ -1,5 +1,9 @@
 //This program is my favourite as it utilizes simple keywords to find accurate roots of a given quadratic equation.
 
+#include<iostream.h>
+#include<conio.h>
+#include<math.h>
+
 void Q(float a,float b,float c,float y,float disc,float zR,float zI,float x)
 {
  cout<<"Enter the co-efficients: ";
